@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8888/pages";
+const BASE_URL = "https://login-signup-3naw.onrender.com/pages";
 
 export const api = {
   async request(path, options = {}) {
